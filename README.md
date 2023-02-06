@@ -1,4 +1,4 @@
-# EscapeTheMaze
+# MazeRunner
 
 Gameplay Description:
 1. Upon acting on the feedback given to us, we have created a coherent educative game which consists of all the expected game components.
